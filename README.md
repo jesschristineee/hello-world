@@ -1,2 +1,4 @@
 # hello-world
 Just another repository
+
+My names Jessica and I would definitely consider myself a newbie to the coding word. Although I have been fascinated with computer science and programming for years, I was always telling myself I didn't know enough to jump in and learn about coding languages and how to code. When really all I did was hold myself back. So now after enough times been wasted I'm actually making the commitment to just jump on in and start learning how to code and will be starting off by learning about Node.js and JavaScript.. Dream is to be able to get a career in programming and hope to actually get involved in a startup company and also want to build my own websites and apps on my own just as a small little personal work project on the side.. Anyways tho that's it! Oh and one last thing I also had tacos on the moon and found them far more superior to earth tacos! 
